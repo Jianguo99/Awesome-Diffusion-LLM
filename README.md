@@ -18,9 +18,13 @@ Since our time is limited and we can't cover everything, please feel free to sub
 
 22 May 2025, **LaViDa: A Large Diffusion Language Model for Multimodal Understanding**, [paper](https://arxiv.org/abs/2505.16839)
 
+22 May 2025, **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**, [paper](https://arxiv.org/abs/2505.16990)
+
 
 ## Fast Sampling
 21 May 2025, **dKV-Cache: The Cache for Diffusion Language Models**, [paper](https://arxiv.org/abs/2505.15781)
+
+22 May 2025, **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**, [paper](https://arxiv.org/abs/2505.16990)
 
 22 May 2025, **dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching**, [paper](https://github.com/maomaocun/dLLM-cache?tab=readme-ov-file)
 
