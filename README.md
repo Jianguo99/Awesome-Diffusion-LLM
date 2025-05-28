@@ -27,7 +27,7 @@ Since our time is limited and we can't cover everything, please feel free to sub
 27 May 2025, **Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**, [paper](https://arxiv.org/pdf/2505.21467)
 
 
-# Reinforcement Learning
+## Reinforcement Learning
 16 Apr 2025, **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**, [paper](https://arxiv.org/abs/2504.12216)
 
 15 May 2025，**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**, [paper](https://arxiv.org/abs/2505.10446)
