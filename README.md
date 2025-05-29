@@ -28,6 +28,8 @@ Since our time is limited and we can't cover everything, please feel free to sub
 
 22 May 2025, **dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching**, [paper](https://github.com/maomaocun/dLLM-cache?tab=readme-ov-file)
 
+23 May 2025, **Variational Autoencoding Discrete Diffusion with Enhanced Dimensional Correlations Modeling**, [paper](https://arxiv.org/abs/2505.17384)
+
 27 May 2025, **Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**, [paper](https://arxiv.org/pdf/2505.21467)
 
 28 May 2025, **Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**, [paper](https://nvlabs.github.io/Fast-dLLM/paper/fast_dllm.pdf)
