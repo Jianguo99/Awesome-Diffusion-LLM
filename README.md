@@ -34,6 +34,8 @@ Since our time is limited and we can't cover everything, please feel free to sub
 
 28 May 2025, **Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**, [paper](https://nvlabs.github.io/Fast-dLLM/paper/fast_dllm.pdf)
 
+2 Jun 2025, **Esoteric Language Models**, [paper](https://arxiv.org/abs/2506.01928)
+
 
 ## Reinforcement Learning
 16 Apr 2025, **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**, [paper](https://arxiv.org/abs/2504.12216)
