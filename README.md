@@ -5,6 +5,21 @@ We’ve collected a series of papers on Diffusion Language Models.
 Since our time is limited and we can't cover everything, please feel free to submit a pull request to contribute.
 
 
+# Theoretical Basis
+12 Mar 2015, Deep Unsupervised Learning using Nonequilibrium Thermodynamics, [paper](https://arxiv.org/abs/1503.03585)
+
+7 Jul 2021, Structured Denoising Diffusion Models in Discrete State-Spaces, [paper](https://arxiv.org/abs/2107.03006)
+
+25 Oct 2023, Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, [paper](https://arxiv.org/abs/2310.16834)
+
+6 Jun 2024, Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data, [paper](https://arxiv.org/abs/2406.03736)
+
+6 Jun 2024, Simplified and Generalized Masked Diffusion for Discrete Data, [paper](https://arxiv.org/abs/2406.04329)
+
+11 Jun 2024, Simple and Effective Masked Diffusion Language Models, [paper](https://arxiv.org/abs/2406.07524)
+
+
+
 ## Foundation Model
 14 Feb 2025, **LLaDA: Large Language Diffusion Models**, [paper](https://arxiv.org/abs/2502.09992)
 
