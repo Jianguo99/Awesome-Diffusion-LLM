@@ -5,7 +5,7 @@ We’ve collected a series of papers on Diffusion Language Models.
 Since our time is limited and we can't cover everything, please feel free to submit a pull request to contribute.
 
 
-# Theoretical Basis
+## Theoretical Basis
 12 Mar 2015, **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**, [paper](https://arxiv.org/abs/1503.03585)
 
 7 Jul 2021, **Structured Denoising Diffusion Models in Discrete State-Spaces**, [paper](https://arxiv.org/abs/2107.03006)
