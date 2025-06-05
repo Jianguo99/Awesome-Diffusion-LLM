@@ -49,6 +49,8 @@ Since our time is limited and we can't cover everything, please feel free to sub
 
 28 May 2025, **Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**, [paper](https://nvlabs.github.io/Fast-dLLM/paper/fast_dllm.pdf)
 
+30 May 2025, **Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**, [paper](https://arxiv.org/abs/2505.24857)
+
 31 May 2025, **Accelerating Diffusion LLMs via Adaptive Parallel Decoding**, [paper](https://arxiv.org/abs/2506.00413)
 
 2 Jun 2025, **Esoteric Language Models**, [paper](https://arxiv.org/abs/2506.01928)
