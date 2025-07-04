@@ -2,7 +2,7 @@
 
 We’ve collected a series of papers on Diffusion Language Models. 
 
-Since our time is limited and we can't cover everything, please feel free to submit a pull request to contribute.
+Since our time is limited and we can't cover everything, **please feel free to submit a pull request to contribute.**
 
 
 ## Theoretical Basis
@@ -64,4 +64,7 @@ Since our time is limited and we can't cover everything, please feel free to sub
 15 May 2025, **Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**, [paper](https://arxiv.org/abs/2505.10446)
 
 25 May 2025, **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**, [paper](https://arxiv.org/abs/2505.19223)
+
+## Long Context
+Tue, 17 Jun 2025, **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**, [paper](https://arxiv.org/abs/2506.14429)
 
