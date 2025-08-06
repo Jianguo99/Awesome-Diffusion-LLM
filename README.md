@@ -65,6 +65,11 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 25 May 2025, **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**, [paper](https://arxiv.org/abs/2505.19223)
 
+
 ## Long Context
 Tue, 17 Jun 2025, **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**, [paper](https://arxiv.org/abs/2506.14429)
+
+
+## Variable Length
+Mon, 4 Aug 2024, **Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models**, [paper](https://arxiv.org/abs/2508.00819)
 
