@@ -34,9 +34,7 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 
 ## Multimodal Model
-**MMaDA: Multimodal Large Diffusion Language Models**  
-2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
-
+### Multimodal Understanding
 **LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**  
 2025-5-22, [Paper](https://arxiv.org/abs/2505.16933)
 
@@ -45,6 +43,10 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
 2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
+
+### Unified Multimodal Model
+**MMaDA: Multimodal Large Diffusion Language Models**  
+2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
 
 
 ## Fast Sampling
@@ -96,5 +98,10 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 
 ## Variable Length
+**DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-Size Canvas**
+2025-7-15, [Paper](https://hkunlp.github.io/blog/2025/dreamon/)
+
 **Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models**  
-2024-8-4, [Paper](https://arxiv.org/abs/2508.00819)
+2025-8-4, [Paper](https://arxiv.org/abs/2508.00819)
+
+
