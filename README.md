@@ -50,14 +50,25 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 
 ## Fast Sampling
+## Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15781)
 
-**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
-2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
-
 **dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching**  
 2025-5-22, [Paper](https://github.com/maomaocun/dLLM-cache?tab=readme-ov-file)
+
+**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**  
+2025-5-27, [Paper](https://arxiv.org/pdf/2505.21467)
+
+**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**  
+2025-5-28, [Paper](https://nvlabs.github.io/Fast-dLLM/paper/fast_dllm.pdf)
+
+**Esoteric Language Models**  
+2025-6-2, [Paper](https://arxiv.org/abs/2506.01928)
+
+## Advanced Sampling Method
+**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
+2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
 
 **Variational Autoencoding Discrete Diffusion with Enhanced Dimensional Correlations Modeling**  
 2025-5-23, [Paper](https://arxiv.org/abs/2505.17384)
@@ -73,9 +84,6 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 **Accelerating Diffusion LLMs via Adaptive Parallel Decoding**  
 2025-5-31, [Paper](https://arxiv.org/abs/2506.00413)
-
-**Esoteric Language Models**  
-2025-6-2, [Paper](https://arxiv.org/abs/2506.01928)
 
 **Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles**  
 2025-6-12, [Paper](https://arxiv.org/abs/2506.10848)
