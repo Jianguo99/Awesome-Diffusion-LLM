@@ -116,4 +116,11 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models**  
 2025-8-4, [Paper](https://arxiv.org/abs/2508.00819)
 
+## Others
+**Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs**
+2025-8-14, [Paper](https://arxiv.org/pdf/2508.10736)  
+
+**Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models**  
+2025-8-12, [Paper](https://arxiv.org/abs/2508.09138)
+
 
