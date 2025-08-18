@@ -50,7 +50,7 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 
 ## Fast Sampling
-## Enable KV Cache
+### Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15781)
 
@@ -66,7 +66,7 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Esoteric Language Models**  
 2025-6-2, [Paper](https://arxiv.org/abs/2506.01928)
 
-## Advanced Sampling Method
+### Advanced Sampling Method
 **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
 2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
 
