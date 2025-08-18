@@ -32,6 +32,10 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Dream 7B**  
 2025-4-2, [Paper](https://hkunlp.github.io/blog/2025/dream/)
 
+**Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference**  
+2025-8-4, [Paper](https://www.arxiv.org/abs/2508.02193)  
+
+
 
 ## Multimodal Model
 ### Multimodal Understanding
