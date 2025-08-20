@@ -103,6 +103,11 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**  
 2025-5-25, [Paper](https://arxiv.org/abs/2505.19223)
 
+**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**  
+2025-7-25, [Paper](https://arxiv.org/abs/2506.20639)
+
+**MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models**  
+2025-8-18, [Paper](https://arxiv.org/pdf/2508.13148)
 
 ## Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
