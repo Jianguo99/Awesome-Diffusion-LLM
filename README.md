@@ -70,6 +70,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Esoteric Language Models**  
 2025-6-2, [Paper](https://arxiv.org/abs/2506.01928)
 
+**Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction**  
+2025-8-4, [Paper](https://arxiv.org/abs/2508.02558)
+
 ### Advanced Sampling Method
 **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
 2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
