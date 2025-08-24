@@ -52,6 +52,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **MMaDA: Multimodal Large Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
 
+### Speech / ASR
+**Whisfusion: Parallel ASR Decoding via a Diffusion Transformer**  
+2025-8-9, [Paper](https://arxiv.org/abs/2508.07048)
 
 ## Fast Sampling
 ### Enable KV Cache
