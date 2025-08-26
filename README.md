@@ -98,9 +98,8 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles**  
 2025-6-12, [Paper](https://arxiv.org/abs/2506.10848)
 
-**DPad: Efficient Diffusion Language Models with Suffix Dropout**
-
-2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
+**DPad: Efficient Diffusion Language Models with Suffix Dropout**  
+2025-8-19, [Paper](https://arxiv.org/abs/2506.10848)
 
 
 ## Reinforcement Learning
@@ -137,5 +136,4 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 **Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs**  
 2025-8-14, [Paper](https://arxiv.org/pdf/2508.10736)  
-
 
