@@ -76,6 +76,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction**  
 2025-8-4, [Paper](https://arxiv.org/abs/2508.02558)
 
+**DPad: Efficient Diffusion Language Models with Suffix Dropout**  
+2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
+
 ### Advanced Sampling Method
 **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
 2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
@@ -97,6 +100,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 **Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles**  
 2025-6-12, [Paper](https://arxiv.org/abs/2506.10848)
+
+**DPad: Efficient Diffusion Language Models with Suffix Dropout**  
+2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
 
 
 ## Reinforcement Learning
@@ -133,5 +139,4 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 **Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs**  
 2025-8-14, [Paper](https://arxiv.org/pdf/2508.10736)  
-
 
