@@ -133,7 +133,7 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models**  
 2025-8-4, [Paper](https://arxiv.org/abs/2508.00819)
 
-**Any-Order Flexible Length Masked Diffusion**
+**Any-Order Flexible Length Masked Diffusion**  
 2025-8-31, [Paper](https://arxiv.org/pdf/2509.01025)
 
 ## Others
