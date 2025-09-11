@@ -122,7 +122,7 @@ Since our time is limited and we can't cover everything, **please feel free to s
 2025-8-18, [Paper](https://arxiv.org/pdf/2508.13148)
 
 **Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models**  
-2025-9-18, [Paper](https://arxiv.org/pdf/2509.06949)
+2025-9-8, [Paper](https://arxiv.org/pdf/2509.06949)
 
 ## Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
