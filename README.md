@@ -133,6 +133,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 
 ## Variable Length
+**Edit Flows: Flow Matching with Edit Operations**  
+2025-6-10, [Paper](https://arxiv.org/abs/2506.09018)
+
 **DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-Size Canvas**  
 2025-7-15, [Paper](https://hkunlp.github.io/blog/2025/dreamon/)
 
