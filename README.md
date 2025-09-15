@@ -127,7 +127,7 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models**  
 2025-9-8, [Paper](https://arxiv.org/pdf/2509.06949)
 
-**Inpainting-Guided Policy Optimization for Diffusion Large Language Models**。
+**Inpainting-Guided Policy Optimization for Diffusion Large Language Models**  
 2025-9-12, [Paper](https://arxiv.org/pdf/2509.10396)
 
 ## Long Context
