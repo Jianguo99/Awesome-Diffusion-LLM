@@ -21,11 +21,15 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Simplified and Generalized Masked Diffusion for Discrete Data**  
 2024-6-6, [Paper](https://arxiv.org/abs/2406.04329)
 
-**Simple and Effective Masked Diffusion Language Models**  
+**Simple and Effective Masked Diffusion Language Models**
 2024-6-11, [Paper](https://arxiv.org/abs/2406.07524)
+
+**Next Semantic Scale Prediction via Hierarchical Diffusion Language Models**  
+2025-10-13, [Paper](https://arxiv.org/abs/2510.08632)
 
 
 ## Foundation Model
+
 **LLaDA: Large Language Diffusion Models**  
 2025-2-14, [Paper](https://arxiv.org/abs/2502.09992)
 
@@ -35,28 +39,10 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference**  
 2025-8-4, [Paper](https://www.arxiv.org/abs/2508.02193)  
 
+**Gemini Diffusion**   
+2025-05-20, [Link](https://deepmind.google/models/gemini-diffusion/)
 
-
-## Multimodal Model
-### Multimodal Understanding
-**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**  
-2025-5-22, [Paper](https://arxiv.org/abs/2505.16933)
-
-**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**  
-2025-5-22, [Paper](https://arxiv.org/abs/2505.16839)
-
-**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
-2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
-
-### Unified Multimodal Model
-**MMaDA: Multimodal Large Diffusion Language Models**  
-2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
-
-### Speech / ASR
-**Whisfusion: Parallel ASR Decoding via a Diffusion Transformer**  
-2025-8-9, [Paper](https://arxiv.org/abs/2508.07048)
-
-## Fast Sampling
+## Efficient Inference 
 ### Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15781)
@@ -78,6 +64,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 **DPad: Efficient Diffusion Language Models with Suffix Dropout**  
 2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
+
+**dInfer: An Efficient Inference Framework for Diffusion Language Models**
+2025-10-13, [Paper](https://arxiv.org/abs/2510.08666)
 
 ### Advanced Sampling Method
 **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
@@ -107,6 +96,27 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **DPad: Efficient Diffusion Language Models with Suffix Dropout**  
 2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
 
+**Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference**    
+2025-10-13, [Paper](https://arxiv.org/abs/2510.09309)
+
+## Multimodal Model
+### Multimodal Understanding
+**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**  
+2025-5-22, [Paper](https://arxiv.org/abs/2505.16933)
+
+**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**  
+2025-5-22, [Paper](https://arxiv.org/abs/2505.16839)
+
+**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
+2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
+
+### Unified Multimodal Model
+**MMaDA: Multimodal Large Diffusion Language Models**  
+2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
+
+### Speech / ASR
+**Whisfusion: Parallel ASR Decoding via a Diffusion Transformer**  
+2025-8-9, [Paper](https://arxiv.org/abs/2508.07048)
 
 ## Reinforcement Learning
 **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**  
