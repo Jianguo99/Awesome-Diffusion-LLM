@@ -99,6 +99,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference**    
 2025-10-13, [Paper](https://arxiv.org/abs/2510.09309)
 
+**Guided Star-Shaped Masked Diffusion**   
+2025-10-09, [Paper](https://arxiv.org/abs/2510.08369)
+
 ## Multimodal Model
 ### Multimodal Understanding
 **LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**  
@@ -140,6 +143,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Inpainting-Guided Policy Optimization for Diffusion Large Language Models**  
 2025-9-12, [Paper](https://arxiv.org/pdf/2509.10396)
 
+**Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization**   
+2025-10-09, [Paper](https://arxiv.org/abs/2510.08554)
+
 ## Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
 2025-6-17, [Paper](https://arxiv.org/abs/2506.14429)
@@ -165,3 +171,5 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs**  
 2025-8-14, [Paper](https://arxiv.org/pdf/2508.10736)  
 
+**Symbolic-Diffusion: Deep Learning Based Symbolic Regression with D3PM Discrete Token Diffusion**   
+2025-10-08, [Paper](https://arxiv.org/abs/2510.07570)
