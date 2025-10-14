@@ -1,9 +1,19 @@
-# Diffusion-LLM-Papers
+# Awesome-Diffusion-LLM
 
-We’ve collected a series of papers on Diffusion Language Models. 
+This repository provides a curated list of papers on Diffusion Large Language Models (dLLMs), a rapidly emerging field in generative AI. The collection is organized to track advancements from foundational theory to state-of-the-art applications.
 
-Since our time is limited and we can't cover everything, **please feel free to submit a pull request to contribute.**
+The field is evolving quickly, and this list is a living document. **We welcome community contributions.** If you know of a relevant paper we've missed, please feel free to **submit a pull request**.
 
+---
+
+- [Theoretical Basis](#theoretical-basis)
+- [Foundation Model](#foundation-model)
+- [Efficient Inference](#efficient-inference)
+- [Multimodal Model](#multimodal-model)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Long Context](#long-context)
+- [Variable Length](#variable-length)
+- [Others](#others)
 
 ## Theoretical Basis
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**  
