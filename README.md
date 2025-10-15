@@ -52,6 +52,10 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Gemini Diffusion**   
 2025-05-20, [Link](https://deepmind.google/models/gemini-diffusion/)
 
+### Autoregressive vs. Diffusion LLMs
+**Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs**   
+2025-10-10, [Paper](https://arxiv.org/abs/2510.09885)
+
 ## Efficient Inference 
 ### Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
