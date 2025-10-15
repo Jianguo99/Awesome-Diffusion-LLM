@@ -159,6 +159,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization**   
 2025-10-09, [Paper](https://arxiv.org/abs/2510.08554)
 
+**Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models**   
+2025-10-14, [Paper](https://arxiv.org/abs/2510.11683)
+
 
 
 
