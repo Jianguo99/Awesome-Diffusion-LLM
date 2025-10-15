@@ -11,7 +11,6 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 - [Efficient Inference](#efficient-inference)
 - [Multimodal Model](#multimodal-model)
 - [Reinforcement Learning](#reinforcement-learning)
-- [Long Context](#long-context)
 - [Variable Length](#variable-length)
 - [Others](#others)
 
@@ -160,9 +159,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization**   
 2025-10-09, [Paper](https://arxiv.org/abs/2510.08554)
 
-## Long Context
-**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
-2025-6-17, [Paper](https://arxiv.org/abs/2506.14429)
+
 
 
 ## Variable Length
@@ -187,3 +184,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Symbolic-Diffusion: Deep Learning Based Symbolic Regression with D3PM Discrete Token Diffusion**   
 2025-10-08, [Paper](https://arxiv.org/abs/2510.07570)
+
+### Long Context
+**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
+2025-6-17, [Paper](https://arxiv.org/abs/2506.14429)
