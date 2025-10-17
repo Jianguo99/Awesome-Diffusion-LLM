@@ -81,6 +81,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **dInfer: An Efficient Inference Framework for Diffusion Language Models**
 2025-10-13, [Paper](https://arxiv.org/abs/2510.08666)
 
+**Attention Is All You Need for KV Cache in Diffusion LLMs**  
+2025-10-16, [Paper](https://arxiv.org/abs/2510.14973)
+
 ### Advanced Sampling Method
 **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
 2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
@@ -114,6 +117,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Guided Star-Shaped Masked Diffusion**   
 2025-10-09, [Paper](https://arxiv.org/abs/2510.08369)
+
+**Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models**   
+2025-10-16, [Paper](https://arxiv.org/abs/2510.14961)
 
 ## Multimodal Model
 ### Multimodal Understanding
@@ -187,6 +193,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Symbolic-Diffusion: Deep Learning Based Symbolic Regression with D3PM Discrete Token Diffusion**   
 2025-10-08, [Paper](https://arxiv.org/abs/2510.07570)
+
+**Unveiling the Potential of Diffusion Large Language Model in Controllable Generation**   
+2025-09-26, [Paper](https://arxiv.org/abs/2507.04504)
 
 ### Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
