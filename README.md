@@ -30,7 +30,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Simplified and Generalized Masked Diffusion for Discrete Data**  
 2024-6-6, [Paper](https://arxiv.org/abs/2406.04329)
 
-**Simple and Effective Masked Diffusion Language Models**
+**Simple and Effective Masked Diffusion Language Models**   
 2024-6-11, [Paper](https://arxiv.org/abs/2406.07524)
 
 **Next Semantic Scale Prediction via Hierarchical Diffusion Language Models**  
@@ -51,11 +51,19 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Gemini Diffusion**   
 2025-05-20, [Link](https://deepmind.google/models/gemini-diffusion/)
 
+**SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models**    
+2025-10-13, [Paper](https://arxiv.org/abs/2510.09541)
+
 ### Autoregressive vs. Diffusion LLMs
 **Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs**   
 2025-10-10, [Paper](https://arxiv.org/abs/2510.09885)
 
+
 ## Efficient Inference 
+
+**Planner and Executor: Collaboration between Discrete Diffusion And Autoregressive Models in Reasoning**   
+2025-10-17, [Paper](https://arxiv.org/abs/2510.15244)
+
 ### Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15781)
@@ -196,6 +204,10 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Unveiling the Potential of Diffusion Large Language Model in Controllable Generation**   
 2025-09-26, [Paper](https://arxiv.org/abs/2507.04504)
+
+**Attention Sinks in Diffusion Language Models**   
+2025-10-17, [Paper](https://arxiv.org/abs/2510.15731)
+
 
 ### Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
