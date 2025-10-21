@@ -54,6 +54,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models**    
 2025-10-13, [Paper](https://arxiv.org/abs/2510.09541)
 
+**Soft-Masked Diffusion Language Models**
+2025-10-20, [Paper](https://arxiv.org/abs/2510.17206)
+
 ### Autoregressive vs. Diffusion LLMs
 **Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs**   
 2025-10-10, [Paper](https://arxiv.org/abs/2510.09885)
