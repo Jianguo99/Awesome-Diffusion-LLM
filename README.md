@@ -1,6 +1,6 @@
 # Awesome-Diffusion-LLM
 
-This repository provides a curated list of papers on Diffusion Large Language Models (dLLMs), a rapidly emerging field in generative AI. The collection is organized to track advancements from foundational theory to state-of-the-art applications.
+This repository (Daily updating) provides a curated list of papers on Diffusion Large Language Models (dLLMs), a rapidly emerging field in generative AI. The collection is organized to track advancements from foundational theory to state-of-the-art applications.
 
 The field is evolving quickly, and this list is a living document. **We welcome community contributions.** If you know of a relevant paper we've missed, please feel free to **submit a pull request**.
 
@@ -54,7 +54,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models**    
 2025-10-13, [Paper](https://arxiv.org/abs/2510.09541)
 
-**Soft-Masked Diffusion Language Models**
+**Soft-Masked Diffusion Language Models**   
 2025-10-20, [Paper](https://arxiv.org/abs/2510.17206)
 
 ### Autoregressive vs. Diffusion LLMs
@@ -131,6 +131,15 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models**   
 2025-10-16, [Paper](https://arxiv.org/abs/2510.14961)
+
+**Planned Diffusion**    
+2025-10-21, [Paper](https://arxiv.org/abs/2510.18087)
+
+**How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices**  
+2025-10-21, [Paper](https://arxiv.org/abs/2510.18480)
+
+**Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model**  
+2025-10-20, [Paper](https://arxiv.org/abs/2510.18165)
 
 ## Multimodal Model
 ### Multimodal Understanding
