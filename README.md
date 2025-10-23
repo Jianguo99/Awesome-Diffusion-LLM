@@ -9,8 +9,8 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 - [Theoretical Basis](#theoretical-basis)
 - [Foundation Model](#foundation-model)
 - [Inference Method](#inference-method)
+- [Training Method](#training-method)
 - [Multimodal Model](#multimodal-model)
-- [Reinforcement Learning](#reinforcement-learning)
 - [Variable Length](#variable-length)
 - [Others](#others)
 
@@ -146,27 +146,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-10-20, [Paper](https://arxiv.org/abs/2510.18165)
 
 
-
-## Multimodal Model
-### Multimodal Understanding
-**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**  
-2025-5-22, [Paper](https://arxiv.org/abs/2505.16933)
-
-**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**  
-2025-5-22, [Paper](https://arxiv.org/abs/2505.16839)
-
-**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
-2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
-
-### Unified Multimodal Model
-**MMaDA: Multimodal Large Diffusion Language Models**  
-2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
-
-### Speech / ASR
-**Whisfusion: Parallel ASR Decoding via a Diffusion Transformer**  
-2025-8-9, [Paper](https://arxiv.org/abs/2508.07048)
-
-## Reinforcement Learning
+## Training Method
 **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**  
 2025-4-16, [Paper](https://arxiv.org/abs/2504.12216)
 
@@ -204,6 +184,24 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-10-14, [Paper](https://arxiv.org/abs/2510.11683)
 
 
+## Multimodal Model
+### Multimodal Understanding
+**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**  
+2025-5-22, [Paper](https://arxiv.org/abs/2505.16933)
+
+**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**  
+2025-5-22, [Paper](https://arxiv.org/abs/2505.16839)
+
+**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
+2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
+
+### Unified Multimodal Model
+**MMaDA: Multimodal Large Diffusion Language Models**  
+2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
+
+### Speech / ASR
+**Whisfusion: Parallel ASR Decoding via a Diffusion Transformer**  
+2025-8-9, [Paper](https://arxiv.org/abs/2508.07048)
 
 
 ## Variable Length
