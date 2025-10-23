@@ -51,9 +51,6 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Gemini Diffusion**   
 2025-05-20, [Link](https://deepmind.google/models/gemini-diffusion/)
 
-**SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models**    
-2025-10-13, [Paper](https://arxiv.org/abs/2510.09541)
-
 **Soft-Masked Diffusion Language Models**   
 2025-10-20, [Paper](https://arxiv.org/abs/2510.17206)
 
@@ -170,6 +167,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**  
 2025-5-25, [Paper](https://arxiv.org/abs/2505.19223)
 
+**wd1: Weighted Policy Optimization for Reasoning in Diffusion Language Models**     
+2025-07-07, [Paper](https://arxiv.org/abs/2507.08838)
+
 **DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**  
 2025-7-25, [Paper](https://arxiv.org/abs/2506.20639)
 
@@ -184,6 +184,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization**   
 2025-10-09, [Paper](https://arxiv.org/abs/2510.08554)
+
+**SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models**    
+2025-10-13, [Paper](https://arxiv.org/abs/2510.09541)
 
 **Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models**   
 2025-10-14, [Paper](https://arxiv.org/abs/2510.11683)
