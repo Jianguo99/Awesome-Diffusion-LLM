@@ -45,6 +45,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Dream 7B**  
 2025-4-2, [Paper](https://hkunlp.github.io/blog/2025/dream/)
 
+**Mercury: Ultra-Fast Language Models Based on Diffusion**   
+2025-06-17, [Paper](https://arxiv.org/abs/2506.17298), [Offical website](https://chat.inceptionlabs.ai/)
+
 **Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference**  
 2025-8-4, [Paper](https://www.arxiv.org/abs/2508.02193)  
 
