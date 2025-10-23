@@ -8,7 +8,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 - [Theoretical Basis](#theoretical-basis)
 - [Foundation Model](#foundation-model)
-- [Efficient Inference](#efficient-inference)
+- [Inference Method](#inference-method)
 - [Multimodal Model](#multimodal-model)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Variable Length](#variable-length)
@@ -59,7 +59,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-10-10, [Paper](https://arxiv.org/abs/2510.09885)
 
 
-## Efficient Inference 
+## Inference Method
 
 **Planner and Executor: Collaboration between Discrete Diffusion And Autoregressive Models in Reasoning**   
 2025-10-17, [Paper](https://arxiv.org/abs/2510.15244)
@@ -93,32 +93,36 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-10-16, [Paper](https://arxiv.org/abs/2510.14973)
 
 ### Advanced Sampling Method
+
+**Remasking Discrete Diffusion Models with Inference-Time Scaling**  
+2025-05-22, [Paper](https://arxiv.org/abs/2503.00307)
+
 **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
-2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
+2025-05-22, [Paper](https://arxiv.org/abs/2505.16990)
 
 **Variational Autoencoding Discrete Diffusion with Enhanced Dimensional Correlations Modeling**  
-2025-5-23, [Paper](https://arxiv.org/abs/2505.17384)
+2025-05-23, [Paper](https://arxiv.org/abs/2505.17384)
 
 **Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**  
-2025-5-27, [Paper](https://arxiv.org/pdf/2505.21467)
+2025-05-27, [Paper](https://arxiv.org/pdf/2505.21467)
 
 **Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**  
-2025-5-28, [Paper](https://nvlabs.github.io/Fast-dLLM/paper/fast_dllm.pdf)
+2025-05-28, [Paper](https://nvlabs.github.io/Fast-dLLM/paper/fast_dllm.pdf)
 
 **Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**  
-2025-5-30, [Paper](https://arxiv.org/abs/2505.24857)
+2025-05-30, [Paper](https://arxiv.org/abs/2505.24857)
 
 **Accelerating Diffusion LLMs via Adaptive Parallel Decoding**  
-2025-5-31, [Paper](https://arxiv.org/abs/2506.00413)
+2025-05-31, [Paper](https://arxiv.org/abs/2506.00413)
 
 **Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles**  
-2025-6-12, [Paper](https://arxiv.org/abs/2506.10848)
+2025-06-12, [Paper](https://arxiv.org/abs/2506.10848)
 
 **Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs**  
-2025-7-24，[Paper](https://arxiv.org/abs/2507.18578)
+2025-07-24，[Paper](https://arxiv.org/abs/2507.18578)
 
 **DPad: Efficient Diffusion Language Models with Suffix Dropout**  
-2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
+2025-08-19, [Paper](https://arxiv.org/abs/2508.14148)
 
 **Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference**    
 2025-10-13, [Paper](https://arxiv.org/abs/2510.09309)
@@ -137,6 +141,8 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model**  
 2025-10-20, [Paper](https://arxiv.org/abs/2510.18165)
+
+
 
 ## Multimodal Model
 ### Multimodal Understanding
