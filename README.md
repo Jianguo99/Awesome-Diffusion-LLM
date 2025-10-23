@@ -188,6 +188,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Inpainting-Guided Policy Optimization for Diffusion Large Language Models**  
 2025-9-12, [Paper](https://arxiv.org/pdf/2509.10396)
 
+**d2: Improved Techniques for Training Reasoning Diffusion Language Models**
+2025-09-28, [Paper](https://arxiv.org/abs/2509.21474)
+
 **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization**   
 2025-10-09, [Paper](https://arxiv.org/abs/2510.08554)
 
