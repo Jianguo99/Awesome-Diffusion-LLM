@@ -217,6 +217,10 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Any-Order Flexible Length Masked Diffusion**  
 2025-8-31, [Paper](https://arxiv.org/pdf/2509.01025)
 
+**Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way**     
+2025-10-28, [Paper](https://arxiv.org/abs/2510.24605)
+
+
 ## Others
 **Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models**  
 2025-8-12, [Paper](https://arxiv.org/abs/2508.09138)  
@@ -237,3 +241,8 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 ### Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
 2025-6-17, [Paper](https://arxiv.org/abs/2506.14429)
+
+### Alignment
+
+**Aligning Diffusion Language Models via Unpaired Preference Optimization**     
+2025-10-26, [Paper](https://arxiv.org/abs/2510.23658)
