@@ -36,6 +36,8 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Next Semantic Scale Prediction via Hierarchical Diffusion Language Models**  
 2025-10-13, [Paper](https://arxiv.org/abs/2510.08632)
 
+**Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations**        
+2025-10-29, [Paper](https://www.arxiv.org/abs/2510.25544)
 
 ## Foundation Model
 
