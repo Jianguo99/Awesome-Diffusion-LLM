@@ -197,6 +197,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**  
 2025-5-22, [Paper](https://arxiv.org/abs/2505.16990)
 
+**Masked Diffusion Captioning for Visual Feature Learning**    
+2025-10-30, [Paper](https://arxiv.org/abs/2510.26799)
+
 ### Unified Multimodal Model
 **MMaDA: Multimodal Large Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
@@ -238,6 +241,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Attention Sinks in Diffusion Language Models**   
 2025-10-17, [Paper](https://arxiv.org/abs/2510.15731)
+
+**Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation**   
+2025-10-30, [Paper](https://arxiv.org/abs/2510.26200), Accepted by NeurIPS 2025
 
 
 ### Long Context
