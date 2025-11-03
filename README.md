@@ -69,6 +69,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Planner and Executor: Collaboration between Discrete Diffusion And Autoregressive Models in Reasoning**   
 2025-10-17, [Paper](https://arxiv.org/abs/2510.15244)
 
+**Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning**
+2025-10-31, [Paper](https://arxiv.org/abs/2510.27469)
+
 ### Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15781)
