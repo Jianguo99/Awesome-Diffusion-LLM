@@ -248,6 +248,8 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation**   
 2025-10-30, [Paper](https://arxiv.org/abs/2510.26200), Accepted by NeurIPS 2025
 
+**Diffusion LLMs are Natural Adversaries for any LLM**    
+2025-10-31, [Paper](https://arxiv.org/abs/2511.00203)
 
 ### Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
