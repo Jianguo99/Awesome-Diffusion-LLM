@@ -150,6 +150,8 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model**  
 2025-10-20, [Paper](https://arxiv.org/abs/2510.18165)
 
+**Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models**   
+2025-11-03, [Paper](https://arxiv.org/abs/2511.02077)
 
 ## Training Method
 **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**  
