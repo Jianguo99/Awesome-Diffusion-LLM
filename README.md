@@ -59,6 +59,15 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Soft-Masked Diffusion Language Models**   
 2025-10-20, [Paper](https://arxiv.org/abs/2510.17206)
 
+### Continuous DLM
+
+**DLM-One: Diffusion Language Models for One-Step Sequence Generation**   
+2025-05-30, [Paper](https://arxiv.org/abs/2506.00290)
+
+**Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner**    
+2025-10-03, [Paper](https://arxiv.org/abs/2510.03206)
+
+
 ### Autoregressive vs. Diffusion LLMs
 **Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs**   
 2025-10-10, [Paper](https://arxiv.org/abs/2510.09885)
@@ -173,7 +182,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-8-18, [Paper](https://arxiv.org/pdf/2508.13148)
 
 **Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models**  
-2025-9-8, [Paper](https://arxiv.org/pdf/2509.06949)
+2025-09-08, [Paper](https://arxiv.org/pdf/2509.06949)
 
 **Inpainting-Guided Policy Optimization for Diffusion Large Language Models**  
 2025-9-12, [Paper](https://arxiv.org/pdf/2509.10396)
@@ -252,6 +261,18 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Diffusion LLMs are Natural Adversaries for any LLM**    
 2025-10-31, [Paper](https://arxiv.org/abs/2511.00203)
+
+### Watermarking
+
+**Watermarking Diffusion Language Models**    
+2025-09-29, [Paper](https://arxiv.org/abs/2509.24368)
+
+**DMark: Order-Agnostic Watermarking for Diffusion Large Language Models**     
+2025-10-03, [Paper](https://arxiv.org/abs/2510.02902)
+
+**Watermarking Discrete Diffusion Language Models** 
+2025-11-03, [Paper](https://arxiv.org/abs/2511.02083)
+
 
 ### Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
