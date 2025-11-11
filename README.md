@@ -64,12 +64,12 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **DLM-One: Diffusion Language Models for One-Step Sequence Generation**   
 2025-05-30, [Paper](https://arxiv.org/abs/2506.00290)
 
-**Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner**    
+**Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner**       
 2025-10-03, [Paper](https://arxiv.org/abs/2510.03206)
 
 
 ### Autoregressive vs. Diffusion LLMs
-**Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs**   
+**Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs**       
 2025-10-10, [Paper](https://arxiv.org/abs/2510.09885)
 
 
@@ -81,9 +81,16 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning**
 2025-10-31, [Paper](https://arxiv.org/abs/2510.27469)
 
+**Effective Test-Time Scaling of Discrete Diffusion through Iterative Refinement**   
+2025-11-04, [Paper](https://arxiv.org/abs/2511.05562)
+
+**Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models**   
+2025-11-04, [Paper](https://arxiv.org/abs/2511.05563)
+
+
 ### Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
-2025-5-21, [Paper](https://arxiv.org/abs/2505.15781)
+2025-05-21, [Paper](https://arxiv.org/abs/2505.15781)
 
 **dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching**  
 2025-5-22, [Paper](https://github.com/maomaocun/dLLM-cache?tab=readme-ov-file)
@@ -103,7 +110,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **DPad: Efficient Diffusion Language Models with Suffix Dropout**  
 2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
 
-**dInfer: An Efficient Inference Framework for Diffusion Language Models**
+**dInfer: An Efficient Inference Framework for Diffusion Language Models**    
 2025-10-13, [Paper](https://arxiv.org/abs/2510.08666)
 
 **Attention Is All You Need for KV Cache in Diffusion LLMs**  
@@ -162,6 +169,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models**   
 2025-11-03, [Paper](https://arxiv.org/abs/2511.02077)
 
+**KLASS: KL-Guided Fast Inference in Masked Diffusion Models**   
+2025-11-07, [Paper](https://arxiv.org/abs/2511.05664)
+
 ## Training Method
 **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**  
 2025-4-16, [Paper](https://arxiv.org/abs/2504.12216)
@@ -198,6 +208,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models**   
 2025-10-14, [Paper](https://arxiv.org/abs/2510.11683)
+
+**Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding**      
+2025-10-23, [Paper](https://arxiv.org/abs/2508.19529)
 
 
 ## Multimodal Model
@@ -264,21 +277,21 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 ### Watermarking
 
-**Watermarking Diffusion Language Models**    
+**Watermarking Diffusion Language Models**        
 2025-09-29, [Paper](https://arxiv.org/abs/2509.24368)
 
-**DMark: Order-Agnostic Watermarking for Diffusion Large Language Models**     
+**DMark: Order-Agnostic Watermarking for Diffusion Large Language Models**         
 2025-10-03, [Paper](https://arxiv.org/abs/2510.02902)
 
-**Watermarking Discrete Diffusion Language Models** 
+**Watermarking Discrete Diffusion Language Models**     
 2025-11-03, [Paper](https://arxiv.org/abs/2511.02083)
 
 
 ### Long Context
-**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**  
-2025-6-17, [Paper](https://arxiv.org/abs/2506.14429)
+**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**    
+2025-06-17, [Paper](https://arxiv.org/abs/2506.14429)
 
 ### Alignment
 
-**Aligning Diffusion Language Models via Unpaired Preference Optimization**     
+**Aligning Diffusion Language Models via Unpaired Preference Optimization**       
 2025-10-26, [Paper](https://arxiv.org/abs/2510.23658)
