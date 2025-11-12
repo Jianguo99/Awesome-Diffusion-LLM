@@ -275,6 +275,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Diffusion LLMs are Natural Adversaries for any LLM**    
 2025-10-31, [Paper](https://arxiv.org/abs/2511.00203)
 
+**DiffuGR: Generative Document Retrieval with Diffusion Language Models**   
+2025-11-11, [Paper](https://arxiv.org/abs/2511.08150)
+
 ### Watermarking
 
 **Watermarking Diffusion Language Models**        
