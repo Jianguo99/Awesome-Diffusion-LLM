@@ -87,6 +87,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models**   
 2025-11-04, [Paper](https://arxiv.org/abs/2511.05563)
 
+**TiDAR: Think in Diffusion, Talk in Autoregression**   
+2025-11-12, [Paper](https://arxiv.org/abs/2511.08923)
+
 
 ### Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
@@ -277,6 +280,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **DiffuGR: Generative Document Retrieval with Diffusion Language Models**   
 2025-11-11, [Paper](https://arxiv.org/abs/2511.08150)
+
+**Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions**   
+2025-11-12, [Paper](https://arxiv.org/abs/2511.09465)
 
 ### Watermarking
 
