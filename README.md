@@ -230,6 +230,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Masked Diffusion Captioning for Visual Feature Learning**    
 2025-10-30, [Paper](https://arxiv.org/abs/2510.26799)
 
+**MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation**    
+2025-11-12, [Paper](https://arxiv.org/abs/2511.09611)
+
 ### Unified Multimodal Model
 **MMaDA: Multimodal Large Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
