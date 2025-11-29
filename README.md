@@ -14,7 +14,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 - [Variable Length](#variable-length)
 - [Others](#others)
 
-## Theoretical Basis
+## 1 Theoretical Basis <a id="theoretical-basis"></a>
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**  
 2015-3-12, [Paper](https://arxiv.org/abs/1503.03585)
 
@@ -39,7 +39,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations**        
 2025-10-29, [Paper](https://www.arxiv.org/abs/2510.25544)
 
-## Foundation Model
+## 2 Foundation Model <a id="foundation-model"></a>
 
 **LLaDA: Large Language Diffusion Models**  
 2025-2-14, [Paper](https://arxiv.org/abs/2502.09992)
@@ -59,7 +59,13 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Soft-Masked Diffusion Language Models**   
 2025-10-20, [Paper](https://arxiv.org/abs/2510.17206)
 
-### Continuous DLM
+### 2.1 New model structure
+
+**Breaking the Bottleneck with DiffuApriel: High-Throughput Diffusion LMs with Mamba Backbone**  
+2025-11-23, [Paper](https://arxiv.org/abs/2511.15927)
+
+
+### 2.2 Continuous DLM
 
 **DLM-One: Diffusion Language Models for One-Step Sequence Generation**   
 2025-05-30, [Paper](https://arxiv.org/abs/2506.00290)
@@ -67,13 +73,12 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner**       
 2025-10-03, [Paper](https://arxiv.org/abs/2510.03206)
 
-
-### Autoregressive vs. Diffusion LLMs
+### 2.3 Autoregressive vs. Diffusion LLMs
 **Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs**       
 2025-10-10, [Paper](https://arxiv.org/abs/2510.09885)
 
 
-## Inference Method
+## 3. Inference Method <a id="inference-method"></a>
 
 **Planner and Executor: Collaboration between Discrete Diffusion And Autoregressive Models in Reasoning**   
 2025-10-17, [Paper](https://arxiv.org/abs/2510.15244)
@@ -91,7 +96,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-11-12, [Paper](https://arxiv.org/abs/2511.08923)
 
 
-### Enable KV Cache
+### 3.1 Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
 2025-05-21, [Paper](https://arxiv.org/abs/2505.15781)
 
@@ -119,7 +124,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Attention Is All You Need for KV Cache in Diffusion LLMs**  
 2025-10-16, [Paper](https://arxiv.org/abs/2510.14973)
 
-### Advanced Sampling Method
+### 3.2 Advanced Sampling Method
 
 **Remasking Discrete Diffusion Models with Inference-Time Scaling**  
 2025-05-22, [Paper](https://arxiv.org/abs/2503.00307)
@@ -175,7 +180,10 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **KLASS: KL-Guided Fast Inference in Masked Diffusion Models**   
 2025-11-07, [Paper](https://arxiv.org/abs/2511.05664)
 
-## Training Method
+**From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models**  
+2025-11-26, [Paper](https://arxiv.org/abs/2511.21103)
+
+## 4 Training Method <a id="training-method"></a>
 **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**  
 2025-4-16, [Paper](https://arxiv.org/abs/2504.12216)
 
@@ -215,9 +223,14 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding**      
 2025-10-23, [Paper](https://arxiv.org/abs/2508.19529)
 
+**CDLM: Consistency Diffusion Language Models For Faster Sampling**   
+2025-11-24, [Paper](https://arxiv.org/abs/2511.19269)
 
-## Multimodal Model
-### Multimodal Understanding
+**Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models**    
+2025-11-26， [Paper](https://arxiv.org/abs/2511.21338)
+
+## 5 Multimodal Model <a id="multimodal-model"></a>
+### 5.1 Multimodal Understanding
 **LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**  
 2025-5-22, [Paper](https://arxiv.org/abs/2505.16933)
 
@@ -233,16 +246,16 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation**    
 2025-11-12, [Paper](https://arxiv.org/abs/2511.09611)
 
-### Unified Multimodal Model
+### 5.2 Unified Multimodal Model
 **MMaDA: Multimodal Large Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
 
-### Speech / ASR
+### 5.3 Speech / ASR
 **Whisfusion: Parallel ASR Decoding via a Diffusion Transformer**  
 2025-8-9, [Paper](https://arxiv.org/abs/2508.07048)
 
 
-## Variable Length
+## 6 Variable Length <a id="varibale-length"></a>
 **Edit Flows: Flow Matching with Edit Operations**  
 2025-6-10, [Paper](https://arxiv.org/abs/2506.09018)
 
@@ -259,7 +272,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-10-28, [Paper](https://arxiv.org/abs/2510.24605)
 
 
-## Others
+## 7 Others <a id="others"></a>
 **Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models**  
 2025-8-12, [Paper](https://arxiv.org/abs/2508.09138)  
 
@@ -287,7 +300,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions**   
 2025-11-12, [Paper](https://arxiv.org/abs/2511.09465)
 
-### Watermarking
+### 7.1 Watermarking
 
 **Watermarking Diffusion Language Models**        
 2025-09-29, [Paper](https://arxiv.org/abs/2509.24368)
@@ -299,11 +312,26 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-11-03, [Paper](https://arxiv.org/abs/2511.02083)
 
 
-### Long Context
+### 7.2 Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**    
 2025-06-17, [Paper](https://arxiv.org/abs/2506.14429)
 
-### Alignment
+### 7.3 Alignment
 
 **Aligning Diffusion Language Models via Unpaired Preference Optimization**       
 2025-10-26, [Paper](https://arxiv.org/abs/2510.23658)
+
+
+### 7.4 Neighbouring Diffusion research
+
+**LiteAttention: A Temporal Sparse Attention for Diffusion Transformers**       
+2025-11-14, [Paper](https://www.arxiv.org/abs/2511.11062)
+
+**Diffusion As Self-Distillation: End-to-End Latent Diffusion In One Model**   
+2025-11-18, [Paper](https://arxiv.org/abs/2511.14716v1)
+
+**Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning**    
+2025-11-19, [Paper](https://arxiv.org/abs/2511.15190)
+
+**DiP: Taming Diffusion Models in Pixel Space**   
+2025-11-24, [Paper](https://arxiv.org/abs/2511.18822)
