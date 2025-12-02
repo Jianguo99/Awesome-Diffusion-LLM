@@ -15,6 +15,10 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 - [Others](#others)
 
 ## 1 Theoretical Basis <a id="theoretical-basis"></a>
+
+**Theoretical Benefit and Limitation of Diffusion Language Model**   
+2025-02-13, [Paper](https://arxiv.org/abs/2502.09622). Accepted by NeurIPS 2025
+
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**  
 2015-3-12, [Paper](https://arxiv.org/abs/1503.03585)
 
@@ -33,8 +37,11 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Simple and Effective Masked Diffusion Language Models**   
 2024-6-11, [Paper](https://arxiv.org/abs/2406.07524)
 
+**Breaking AR’s Sampling Bottleneck: Provable Acceleration via Diffusion Language Models**    
+2025-09-19, [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ynnb3QcAAAAJ&sortby=pubdate&citation_for_view=ynnb3QcAAAAJ:mVmsd5A6BfQC). Accepted by NeurIPS 2025
+
 **Next Semantic Scale Prediction via Hierarchical Diffusion Language Models**  
-2025-10-13, [Paper](https://arxiv.org/abs/2510.08632)
+2025-10-13, [Paper](https://arxiv.org/abs/2510.08632). Accepted by NeurIPS 2025
 
 **Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations**        
 2025-10-29, [Paper](https://www.arxiv.org/abs/2510.25544)
@@ -98,7 +105,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 ### 3.1 Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
-2025-05-21, [Paper](https://arxiv.org/abs/2505.15781)
+2025-05-21, [Paper](https://arxiv.org/abs/2505.15781). Accepted by NeurIPS 2025
 
 **dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching**  
 2025-5-22, [Paper](https://github.com/maomaocun/dLLM-cache?tab=readme-ov-file)
@@ -191,7 +198,10 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-4-16, [Paper](https://arxiv.org/abs/2504.12216)
 
 **Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**  
-2025-5-15, [Paper](https://arxiv.org/abs/2505.10446)
+2025-5-15, [Paper](https://arxiv.org/abs/2505.10446). Accepted by NeurIPS 2025
+
+**Anchored Diffusion Language Model**   
+2025-05-24, [Paper](https://arxiv.org/abs/2505.18456). Accepted by NeurIPS 2025
 
 **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**  
 2025-5-25, [Paper](https://arxiv.org/abs/2505.19223)
@@ -226,6 +236,12 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding**      
 2025-10-23, [Paper](https://arxiv.org/abs/2508.19529)
 
+**MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization**    
+2025-10-24, [Paper](https://arxiv.org/abs/2510.21473). Accepted by NeurIPS 2025
+
+**Encoder-Decoder Diffusion Language Models for Efficient Training and Inference**   
+2025-10-26, [Paper](https://arxiv.org/abs/2510.22852). Accepted by NeurIPS 2025
+
 **CDLM: Consistency Diffusion Language Models For Faster Sampling**   
 2025-11-24, [Paper](https://arxiv.org/abs/2511.19269)
 
@@ -237,6 +253,8 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients**   
 2025-11-29, [Paper](https://www.arxiv.org/abs/2512.00670)
+
+
 
 ## 5 Multimodal Model <a id="multimodal-model"></a>
 ### 5.1 Multimodal Understanding
@@ -257,7 +275,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 ### 5.2 Unified Multimodal Model
 **MMaDA: Multimodal Large Diffusion Language Models**  
-2025-5-21, [Paper](https://arxiv.org/abs/2505.15809)
+2025-5-21, [Paper](https://arxiv.org/abs/2505.15809). Accepted by NeurIPS 2025
 
 ### 5.3 Speech / ASR
 **Whisfusion: Parallel ASR Decoding via a Diffusion Transformer**  
@@ -298,7 +316,7 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-10-17, [Paper](https://arxiv.org/abs/2510.15731)
 
 **Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation**   
-2025-10-30, [Paper](https://arxiv.org/abs/2510.26200), Accepted by NeurIPS 2025
+2025-10-30, [Paper](https://arxiv.org/abs/2510.26200). Accepted by NeurIPS 2025
 
 **Diffusion LLMs are Natural Adversaries for any LLM**    
 2025-10-31, [Paper](https://arxiv.org/abs/2511.00203)
@@ -311,6 +329,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **Closed-Loop Transformers: Autoregressive Modeling as Iterative Latent Equilibrium**    
 2025-11-26, [Paper](https://arxiv.org/abs/2511.21882)
+
+**STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model**   
+2025-09-19, [Paper](https://openreview.net/forum?id=SF2POTDz2o&referrer=%5Bthe%20profile%20of%20Qiyi%20Yao%5D(%2Fprofile%3Fid%3D~Qiyi_Yao1)). Accepted by NeurIPS 2025
 
 ### 7.1 Watermarking
 
@@ -327,6 +348,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 ### 7.2 Long Context
 **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**    
 2025-06-17, [Paper](https://arxiv.org/abs/2506.14429)
+
+**Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning**     
+2025-09-18, [Paper](https://arxiv.org/abs/2509.15188). Accepted by NeurIPS 2025
 
 ### 7.3 Alignment
 
