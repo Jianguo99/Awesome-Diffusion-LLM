@@ -124,6 +124,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Attention Is All You Need for KV Cache in Diffusion LLMs**  
 2025-10-16, [Paper](https://arxiv.org/abs/2510.14973)
 
+**Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models**    
+2025-11-24, [Paper](https://arxiv.org/abs/2511.21759)
+
 ### 3.2 Advanced Sampling Method
 
 **Remasking Discrete Diffusion Models with Inference-Time Scaling**  
@@ -229,6 +232,12 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models**    
 2025-11-26， [Paper](https://arxiv.org/abs/2511.21338)
 
+**C^2DLM: Causal Concept-Guided Diffusion Large Language Models**     
+2025-11-27, [Paper](https://arxiv.org/abs/2511.22146)
+
+**EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients**   
+2025-11-29, [Paper](https://www.arxiv.org/abs/2512.00670)
+
 ## 5 Multimodal Model <a id="multimodal-model"></a>
 ### 5.1 Multimodal Understanding
 **LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**  
@@ -300,6 +309,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 **Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions**   
 2025-11-12, [Paper](https://arxiv.org/abs/2511.09465)
 
+**Closed-Loop Transformers: Autoregressive Modeling as Iterative Latent Equilibrium**    
+2025-11-26, [Paper](https://arxiv.org/abs/2511.21882)
+
 ### 7.1 Watermarking
 
 **Watermarking Diffusion Language Models**        
@@ -322,7 +334,13 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-10-26, [Paper](https://arxiv.org/abs/2510.23658)
 
 
-### 7.4 Neighbouring Diffusion research
+### 7.4 Recommend system
+
+**Masked Diffusion for Generative Recommendation**     
+2025-11-28, [Paper](https://arxiv.org/abs/2511.23021)
+
+
+### 7.5 Neighbouring Diffusion research
 
 **LiteAttention: A Temporal Sparse Attention for Diffusion Transformers**       
 2025-11-14, [Paper](https://www.arxiv.org/abs/2511.11062)
@@ -335,3 +353,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 **DiP: Taming Diffusion Models in Pixel Space**   
 2025-11-24, [Paper](https://arxiv.org/abs/2511.18822)
+
+**Test-time scaling of diffusions with flow maps**    
+2025-11-27, [Paper](https://arxiv.org/abs/2511.22688)
+
+**Efficient Training of Diffusion Mixture-of-Experts Models: A Practical Recipe**  
+2025-12-01, [Paper](https://arxiv.org/abs/2512.01252)
