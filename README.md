@@ -74,6 +74,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 
 ### 2.2 Continuous DLM
 
+**Diffusion-LM Improves Controllable Text Generation**   
+2022-05-27, [Paper](https://arxiv.org/abs/2205.14217)
+
 **DLM-One: Diffusion Language Models for One-Step Sequence Generation**   
 2025-05-30, [Paper](https://arxiv.org/abs/2506.00290)
 
@@ -282,7 +285,11 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 2025-8-9, [Paper](https://arxiv.org/abs/2508.07048)
 
 
-## 6 Variable Length <a id="varibale-length"></a>
+## 6 Variable Length <a id="variable-length"></a>
+
+**David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs**    
+2023-05-24, [Paper](https://arxiv.org/abs/2305.14771)
+
 **Edit Flows: Flow Matching with Edit Operations**  
 2025-6-10, [Paper](https://arxiv.org/abs/2506.09018)
 
