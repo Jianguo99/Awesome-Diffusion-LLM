@@ -13,7 +13,9 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 - [Multimodal Model](#multimodal-model)
 - [Variable Length](#variable-length)
 - [Others](#others)
-                                                                                                      |  |
+
+# Survey
+1. [A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875)
 
 ## 1 Theoretical Basis or Discussions <a id="theoretical-basis"></a>
 ### 1.1 Theoretical Basis
