@@ -14,6 +14,12 @@ The field is evolving quickly, and this list is a living document. **We welcome 
 - [Variable Length](#variable-length)
 - [Others](#others)
 
+
+# Some dicussions
+| Date       | Title                                                                 | Abstract | Link                                                                                                                                              | Remark       |
+|------------|-----------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 2025-12-05 | Understanding the Limitations of Diffusion LLMs through a Probabilistic Perspective       | -        | [Notion](https://www.notion.so/Understanding-the-Limitations-of-Diffusion-LLMs-through-a-Probabilistic-Perspective-2ae0ba07baa88053b838d5bf0b0aad41)                                                                                                         |  |
+
 ## 1 Theoretical Basis <a id="theoretical-basis"></a>
 | Date       | Title                                                                 | Abstract | Link                                                                                                                                              | Remark       |
 |------------|-----------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
