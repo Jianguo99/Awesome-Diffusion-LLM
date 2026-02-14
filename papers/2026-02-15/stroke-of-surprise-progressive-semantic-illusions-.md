@@ -6,7 +6,7 @@
 - **作者:** Huai-Hsun Cheng, Siang-Ling Zhang, Yu-Lun Liu
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 00:53:08
+- **保存时间:** 2026-02-15 00:55:53
 
 ## 摘要
 Visual illusions traditionally rely on spatial manipulations such as multi-view consistency. In this work, we introduce Progressive Semantic Illusions, a novel vector sketching task where a single sketch undergoes a dramatic semantic transformation through the sequential addition of strokes. We pres...

@@ -6,7 +6,7 @@
 - **作者:** Yongcun Song, Xiaoming Yuan, Hangrui Yue 等4人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion model large language model
-- **保存时间:** 2026-02-15 00:53:08
+- **保存时间:** 2026-02-15 00:55:53
 
 ## 摘要
 We propose an optimization-informed deep neural network approach, named iUzawa-Net, aiming for the first solver that enables real-time solutions for a class of nonsmooth optimal control problems of linear partial differential equations (PDEs). The iUzawa-Net unrolls an inexact Uzawa method for saddl...

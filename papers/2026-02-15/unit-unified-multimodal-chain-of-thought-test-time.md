@@ -6,7 +6,7 @@
 - **作者:** Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan 等14人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 00:53:08
+- **保存时间:** 2026-02-15 00:55:53
 
 ## 摘要
 Unified models can handle both multimodal understanding and generation within a single architecture, yet they typically operate in a single pass without iteratively refining their outputs. Many multimodal tasks, especially those involving complex spatial compositions, multiple interacting objects, o...

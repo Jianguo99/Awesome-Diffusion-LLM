@@ -6,7 +6,7 @@
 - **作者:** Annie Liang, Jay Lu
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 00:53:08
+- **保存时间:** 2026-02-15 00:55:53
 
 ## 摘要
 Copyright law focuses on whether a new work is "substantially similar" to an existing one, but generative AI can closely imitate style without copying content, a capability now central to ongoing litigation. We argue that existing definitions of infringement are ill-suited to this setting and propos...

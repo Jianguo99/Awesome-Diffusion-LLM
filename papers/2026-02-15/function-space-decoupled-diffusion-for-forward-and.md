@@ -6,7 +6,7 @@
 - **作者:** Xin Ju, Jiachen Yao, Anima Anandkumar 等5人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 00:53:08
+- **保存时间:** 2026-02-15 00:55:53
 
 ## 摘要
 Accurate characterization of subsurface flow is critical for Carbon Capture and Storage (CCS) but remains challenged by the ill-posed nature of inverse problems with sparse observations. We present Fun-DDPS, a generative framework that combines function-space diffusion models with differentiable neu...
