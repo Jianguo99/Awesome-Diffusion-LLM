@@ -6,7 +6,7 @@
 - **作者:** M. Guolo, A. Mummery, S. van Velzen 等14人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion model large language model
-- **保存时间:** 2026-02-15 00:41:13
+- **保存时间:** 2026-02-15 00:53:08
 
 ## 摘要
 We present an analysis of the spectral energy distribution (SED) of the off-nuclear tidal disruption event (TDE) AT2024tvd during its late-time plateau phase, combining X-ray spectra and UV/optical photometry. Using a fully relativistic, compact accretion disk model with self-consistent inner-disk C...

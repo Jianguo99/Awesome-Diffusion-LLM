@@ -6,7 +6,7 @@
 - **作者:** David Jiahao Fu, Lam Thanh Do, Jiayu Li 等4人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 00:41:13
+- **保存时间:** 2026-02-15 00:53:08
 
 ## 摘要
 Retrieval augmented generation (RAG) has been widely adopted to help Large Language Models (LLMs) to process tasks involving long documents. However, existing retrieval models are not designed for long document retrieval and fail to address several key challenges of long document retrieval, includin...
