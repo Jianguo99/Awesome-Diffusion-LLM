@@ -1,0 +1,29 @@
+# Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment
+
+## 基本信息
+- **arXiv ID:** 2602.12281v1
+- **链接:** https://arxiv.org/abs/2602.12281v1
+- **作者:** Jacky Kwok, Xilun Zhang, Mengdi Xu 等7人
+- **日期:** 2026-02-12
+- **搜索主题:** diffusion for language generation
+- **保存时间:** 2026-02-15 00:41:13
+
+## 摘要
+The long-standing vision of general-purpose robots hinges on their ability to understand and act upon natural language instructions. Vision-Language-Action (VLA) models have made remarkable progress toward this goal, yet their generated actions can still misalign with the given instructions. In this...
+
+## 关键词
+- diffusion
+- language model
+- large language model
+- generative AI
+
+## 分类
+- AI/ML
+- Natural Language Processing
+- Generative Models
+
+## 笔记
+<!-- 在这里添加你的阅读笔记 -->
+
+## 相关论文
+<!-- 在这里添加相关论文链接 -->
