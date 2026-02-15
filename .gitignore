@@ -5,3 +5,10 @@ diffusion.md
 papers/
 # 但README.md文件需要提交
 !papers/*/README.md
+
+# 备份文件夹
+papers_backup_*/
+
+# 临时脚本
+remove_all_today_papers.py
+clean_readme.py
