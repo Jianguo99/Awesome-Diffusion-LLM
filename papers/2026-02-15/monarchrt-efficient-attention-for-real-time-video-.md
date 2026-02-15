@@ -6,7 +6,7 @@
 - **作者:** Krish Agarwal, Zhuoming Chen, Cheng Luo 等8人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 07:04:53
+- **保存时间:** 2026-02-15 16:56:47
 
 ## 摘要
 Real-time video generation with Diffusion Transformers is bottlenecked by the quadratic cost of 3D self-attention, especially in real-time regimes that are both few-step and autoregressive, where errors compound across time and each denoising step must carry substantially more information. In this s...

@@ -6,7 +6,7 @@
 - **作者:** Duy Nguyen, Jiachen Yao, Jiayun Wang 等5人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 07:04:53
+- **保存时间:** 2026-02-15 16:56:47
 
 ## 摘要
 Self-supervised learning (SSL) is a powerful paradigm for learning from unlabeled time-series data. However, popular methods such as masked autoencoders (MAEs) rely on reconstructing inputs from a fixed, predetermined masking ratio. Instead of this static design, we propose treating the corruption l...

@@ -6,7 +6,7 @@
 - **作者:** Jacky Kwok, Xilun Zhang, Mengdi Xu 等7人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 07:04:53
+- **保存时间:** 2026-02-15 16:56:47
 
 ## 摘要
 The long-standing vision of general-purpose robots hinges on their ability to understand and act upon natural language instructions. Vision-Language-Action (VLA) models have made remarkable progress toward this goal, yet their generated actions can still misalign with the given instructions. In this...
