@@ -1,2 +1,7 @@
 out/
 diffusion.md
+
+# 论文文件夹 - 不提交到GitHub
+papers/
+# 但README.md文件需要提交
+!papers/*/README.md
