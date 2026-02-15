@@ -6,7 +6,7 @@
 - **作者:** Emilie Thélie, Sarah Libanore, Yonatan Sklansky 等5人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion model large language model
-- **保存时间:** 2026-02-15 00:55:53
+- **保存时间:** 2026-02-15 16:57:26
 
 ## 摘要
 We propose a new way to reconstruct the ionized-bubble size distribution during the Epoch of Reionization (EoR) through the real-space cross-correlation of 21-cm and star-forming line-intensity maps. Understanding the evolution and timing of the EoR is crucial for both astrophysics and cosmology, an...

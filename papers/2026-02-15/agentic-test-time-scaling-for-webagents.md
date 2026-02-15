@@ -6,7 +6,7 @@
 - **作者:** Nicholas Lee, Lutfi Eren Erdogan, Chris Joseph John 等7人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 16:56:47
+- **保存时间:** 2026-02-15 16:57:26
 
 ## 摘要
 Test-time scaling has become a standard way to improve performance and boost reliability of neural network models. However, its behavior on agentic, multi-step tasks remains less well-understood: small per-step errors can compound over long horizons; and we find that naive policies that uniformly in...

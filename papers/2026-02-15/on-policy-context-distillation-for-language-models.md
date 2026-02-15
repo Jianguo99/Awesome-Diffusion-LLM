@@ -6,7 +6,7 @@
 - **作者:** Tianzhu Ye, Li Dong, Xun Wu 等5人
 - **日期:** 2026-02-12
 - **搜索主题:** diffusion for language generation
-- **保存时间:** 2026-02-15 16:56:47
+- **保存时间:** 2026-02-15 16:57:26
 
 ## 摘要
 Context distillation enables language models to internalize in-context knowledge into their parameters. In our work, we propose On-Policy Context Distillation (OPCD), a framework that bridges on-policy distillation with context distillation by training a student model on its own generated trajectori...
