@@ -1,10 +1,9 @@
 out/
 diffusion.md
 
-# 论文文件夹 - 不提交到GitHub
+# 论文文件夹 - 完全不提交到GitHub
 papers/
-# 但README.md文件需要提交
-!papers/*/README.md
+# 注意：这里没有例外，papers/文件夹下的所有文件都不提交
 
 # 备份文件夹
 papers_backup_*/
